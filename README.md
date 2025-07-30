@@ -8,11 +8,11 @@ This project demonstrates a fully working, AI-based head detection system integr
 
 ## Highlights
 
-✅ **Real-time head detection** in a live 3D game (CS2)  
-✅ **Trained YOLOv8 model** on thousands of labeled head images  
-✅ **Efficient screen capture** with `MSS` – optimized for real-time detection
-✅ **Target-locking system** – avoids jitter and locks on the nearest visible head
-✅ **Mouse automation** – moves the crosshair toward detected heads    
+- **Real-time head detection** in a live 3D game (CS2)  
+- **Trained YOLOv8 model** on thousands of labeled head images  
+- **Efficient screen capture** with `MSS` – optimized for real-time detection  
+- **Target-locking system** – avoids jitter and locks on the nearest visible head  
+- **Mouse automation** – moves the crosshair toward detected heads    
 
 ---
 
