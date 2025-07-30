@@ -19,7 +19,7 @@ This project demonstrates a fully working, AI-based head detection system integr
 ## How It Works
 
 1. **Training**  
-   - Public head-detection dataset with thousands of labeled samples https://universe.roboflow.com/yolov10-i15mj/headshot-yxiei/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true 
+   - - Public head-detection dataset with thousands of labeled samples [Roboflow dataset](https://universe.roboflow.com/yolov10-i15mj/headshot-yxiei/browse)
    - Trained on Google Colab with GPU using YOLOv8  
    - Tested different configurations to optimize accuracy vs speed
 
