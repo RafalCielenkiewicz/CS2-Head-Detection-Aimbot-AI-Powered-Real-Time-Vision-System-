@@ -47,6 +47,7 @@ This project demonstrates a fully working, AI-based head detection system integr
 
 <img width="1000" height="1127" alt="image" src="https://github.com/user-attachments/assets/17d57c3d-0c06-412e-b8f8-78dcf3cd4e86" />
 
+https://github.com/user-attachments/assets/95a4a668-0632-4224-a530-e8de65bc8f8f
 
 ---
 
