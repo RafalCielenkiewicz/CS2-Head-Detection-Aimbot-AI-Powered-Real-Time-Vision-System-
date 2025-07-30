@@ -41,14 +41,7 @@ This project demonstrates a fully working, AI-based head detection system integr
 
 ## Example 
 
-<img width="1123" height="1122" alt="image" src="https://github.com/user-attachments/assets/5bc435c3-7064-407c-af5a-15a8af2a7130" />
-
-<img width="963" height="1088" alt="image" src="https://github.com/user-attachments/assets/251b18d1-289f-4f64-8d9a-c67bcf8568c8" />
-
-<img width="1000" height="1127" alt="image" src="https://github.com/user-attachments/assets/17d57c3d-0c06-412e-b8f8-78dcf3cd4e86" />
-
-https://github.com/user-attachments/assets/95a4a668-0632-4224-a530-e8de65bc8f8f
-
+https://github.com/user-attachments/assets/6cd3be2f-a506-4936-a80f-b94b76c03d0d
 ---
 
 ## Technologies Used
